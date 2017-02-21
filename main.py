@@ -13,7 +13,7 @@ def question_1():
     d) Collection
     """
     # Return the correct value.
-    pass
+    return "Boolean"
 
 
 # Question 2
@@ -31,7 +31,7 @@ def question_2():
     e) "hello world"
     """
     # Return the correct value.
-    pass
+    return 1
 
 
 # Question 3
@@ -46,7 +46,9 @@ def remove_Es(a_string):
     remove_Es('abc')      # 'abc'
     """
     # Write your code here
-    pass
+    remove_Es(remoter)
+    s = remoter
+    return s= s.replace("e" or "E", "")
 
 
 # Question 4
@@ -63,7 +65,7 @@ def question_4():
     result = a_list[3**2 - 8] + a_list[-1] + a_tuple[2]
     """
     # Return the correct value.
-    pass
+    return 22
 
 
 # Question 5
